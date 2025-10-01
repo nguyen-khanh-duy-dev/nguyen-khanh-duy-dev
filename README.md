@@ -18,7 +18,5 @@
 
 ## 📫 Connect with me  
 - 📧 Email: nguyenduyyy003@gmail.com
-- 🔗 <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-4a8b33367/)" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a> 
+- 🔗 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nguy%E1%BB%85n-duy-4a8b33367/))  
 - 🌐 [Portfolio](Updatelate)  
