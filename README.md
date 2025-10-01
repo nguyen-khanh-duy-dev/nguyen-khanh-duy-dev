@@ -4,6 +4,8 @@
 
 ## Teach Stack:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hew01&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hew01&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 <!--
