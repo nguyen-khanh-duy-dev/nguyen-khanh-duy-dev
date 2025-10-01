@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Duy Nguyễn 👋
+- 🎓 I am a recent graduate of IT at University of Information Technology.
+- 🎯 My goal is to become a fullstack web developer
+
+## Teach Stack:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hew01&layout=compact&theme=tokyonight)
+
 
 <!--
 **nguyen-khanh-duy-dev/nguyen-khanh-duy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
